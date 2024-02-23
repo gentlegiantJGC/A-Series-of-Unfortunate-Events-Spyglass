@@ -34,7 +34,7 @@ I suggest first doing some test prints to make sure the parts fit together corre
 
 I designed the parts to fit correctly for my setup but your printer or slicer settings may vary meaning the parts don't fit together or have to much clearance.
 
-You can load the STL models into a 3D modeling program like blender and tweak the dimensions.
+You can load the STL models into a 3D modelling program like blender and tweak the dimensions.
 
 ## Parts
 
@@ -42,7 +42,7 @@ When referring to the spyglass I always have the VFD lens cap on the left and th
 
 The spyglass comes in two halves. The left is referred to as the head and the right as the tail.
 
-All the parts for the head half can be found in the folder called "head" and the parts for the tail can be found in the folder called "tail". The only excpetion is ringGrip.STL which is used by both halves and is stored in "common"
+All the parts for the head half can be found in the folder called "head" and the parts for the tail can be found in the folder called "tail". The only exception is ringGrip.STL which is used by both halves and is stored in "common"
 
 There are a couple of variants of the spyglass throughout the show.
 
@@ -64,17 +64,17 @@ Parts listed from left to right:
 - wood and grip: ./head/wood&Grip.STL
 - ring 2:
   - ./head/ring2/numerical.STL		(Used in Monty's spyglass, title screen and Incomplete History of Secret Organisations)
-  - ./head/ring2/Runes.STL			(Used in Baudelaire's, Lemony Sniket's, Jacquelyn's, Olivia's)
+  - ./head/ring2/Runes.STL			(Used in Baudelaire's, Lemony Snicket's, Jacquelyn's, Olivia's)
 - ring grip: ./common/ringGrip.STL
 - ring 3:
-  - ./head/ring3/magiRingBlank.STL				(Used in Baudelaire's, Lemony Sniket's, Jacquelyn's, Olivia's )
+  - ./head/ring3/magiRingBlank.STL				(Used in Baudelaire's, Lemony Snicket's, Jacquelyn's, Olivia's )
   - ./head/ring3/magiRingIncrements.STL			(Used in Monty's spyglass and Incomplete History of Secret Organisations)
 - ring grip: ./common/ringGrip.STL
 
-### Tail (Read to futher down before assembling this part)
+### Tail (Read to further down before assembling this part)
 - ring grip: ./common/ringGrip.STL
 - ring 4:
-  - ./tail/ring4/angular_glagolitic_ring.STL				(Used in Baudelaire's, Lemony Sniket's, Jacquelyn's, Olivia's )
+  - ./tail/ring4/angular_glagolitic_ring.STL				(Used in Baudelaire's, Lemony Snicket's, Jacquelyn's, Olivia's )
   - ./tail/ring4/angular_glagolitic_ring_increments.STL		(Used in Monty's spyglass and Incomplete History of Secret Organisations)
 - screw thread: ./tail/tail_screw_thread.STL
 - tail body: ./tail/tail_body.STL
@@ -114,7 +114,7 @@ You can drag the animation to change the viewing angle, mouse wheel or zoom gest
 
 https://sketchfab.com/models/185d379b8a7848b7ba2333440abb0364
 
-Most of the parts can be assembed in the order they are listed in the parts section above. The exception is the tail.
+Most of the parts can be assembled in the order they are listed in the parts section above. The exception is the tail.
 
 Follow the steps below or use the animation above to assemble the tail.
 
