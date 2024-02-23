@@ -1,0 +1,6 @@
+﻿"clearance"= 0.3mm ' Freely and easily sliding. Used as a gap between the telescopic sections.
+"clearance1" = 0.3mm ' Sliding but a little resistance. Used as a gap between the core and the rotating rings.
+"clearance2" = 0.1mm ' Used as a gap between rings next to each other.
+"interference"= 0.1mm ' This is like clearance1 but when two parts should just fit together rather than freely spin.
+"pegLength"= 1.5mm ' The length of the pegs that stick out from the telescopic sections.
+"printInPlaceClearance" = 0.2mm
